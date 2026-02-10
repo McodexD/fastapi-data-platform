@@ -17,3 +17,4 @@ A modern data ingestion pipeline built with **FastAPI** and **PostgreSQL**. This
 1. Install requirements: `pip install -r requirements.txt`
 2. Start server: `python3 -m uvicorn main:app --reload`
 3. Access the data at `http://127.0.0.1:8000/products`
+Updated feb 10
